@@ -1,0 +1,5 @@
+Git api for wakatime in vsc
+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
+
+wakatime api
+e7e060a7-4732-4777-8875-cc3719c349c3

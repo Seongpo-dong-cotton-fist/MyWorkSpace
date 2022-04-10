@@ -1,0 +1,6 @@
+Community Material Theme
+Material Icon Theme
+Prettier - Code formatter
+WakaTime
+Live Server
+

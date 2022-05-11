@@ -1,0 +1,27 @@
+1. 제목 : 기업 부도 데이터
+
+2. 출처 :
+    (1) 작성자 : 이화 빅데이터 인공지능응용 연구센터
+    (2) 제공자 : 신경식 (ksshin@ewha.ac.kr)
+    (3) 일 자 : 2019년 8월
+
+3. 개요 :
+    본 데이터는 기업 부도예측모형 연구를 위하여 사용되는 재무정보 데이터이다. 본 데이터는 결산년도 기준 2001년부터 2007년까지 제조업 기업의 재무정보를 포함하고 있다. 
+
+4. 인스턴스 수 : 65,535개 
+
+5. 속성 수 및 정보 : 116개
+    (1) ESTB_DT : 설립일자
+    (2) EMP_CNT : 종업원수
+    (3) PREV_OT_AUDIT_DIV : 전기외감구분
+    (4) THIS_OT_AUDIT_DIV : 당기외감구분
+    (5) NEW_ITEM_CODE : 산업품목코드(신코드)
+    (6) STL_YM : 당기 재무기준년월
+    (7) PREV_ASSET_TOTAL : 전기 자산총계
+    (8) THIS_ASSET_TOTAL : 당기 자산총계
+    (9) v1 ~ v106 : 재무비율
+    (10) budo : 부도여부
+    (11) asset : 외감여부
+
+6. 관련 문헌 :
+    (1) Kim, N. R., Shin, K. S., & Ahn, H. (2013). Impact of Ensemble Member Size on Confidence-based Selection in Bankruptcy Prediction. Journal of Intelligence and Information Systems, 19(2), 55-71.

@@ -2,8 +2,11 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
-driver = webdriver.Chrome()
-driver.get("https://www.google.co.uk/")
+driver = webdriver.Chrome(
+    executable_path='D:/MyWorkSpace/selenium/chromedriver.exe')
+driver.get("https://www.google.co.kr/imghp?hl=ko&ogbl")
+elem = driver.find_element(By.NAME, "q")
+elem.send_keys("조코딩")
 # assert "Python" in driver.title
 # elem = driver.find_element(By.NAME, "q")
 # elem.clear()

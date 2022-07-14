@@ -1,3 +1,6 @@
 
 Sentiment_Analysis/archive/keywords.csv
 *.csv
+*.zip
+*.html
+*.xml

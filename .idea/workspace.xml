@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72f64dc6-77ae-4855-84d5-e0c9ecf654bc" name="Changes" comment="2">
+    <list default="true" id="72f64dc6-77ae-4855-84d5-e0c9ecf654bc" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/Sentiment_Analysis/딥러닝.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/데이콘/[Baseline]_1. 데이터 분석 입문자를 위한 데이터 분석 &amp; 예측.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/데이콘/daicon.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/데이콘/dataset.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyWorkSpace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyWorkSpace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment_Analysis/pr1_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment_Analysis/pr2_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment_Analysis/pr3_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment_Analysis/pr4_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment_Analysis/pr5_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment_Analysis/pr6_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment_Analysis/pr_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment_Analysis/자연어처리.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Sentiment_Analysis/자연어처리.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,7 +66,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/MyWorkSpace&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,7 +80,20 @@
       <option name="presentableId" value="Default" />
       <updated>1657090109959</updated>
       <workItem from="1657090111942" duration="624000" />
-      <workItem from="1657103459082" duration="52000" />
+      <workItem from="1657103459082" duration="145000" />
+      <workItem from="1657103624597" duration="1324000" />
+      <workItem from="1657105161990" duration="2454000" />
+      <workItem from="1657109827681" duration="522000" />
+      <workItem from="1657130296044" duration="329000" />
+      <workItem from="1657167751363" duration="14575000" />
+      <workItem from="1657200461605" duration="147000" />
+      <workItem from="1657255459327" duration="11734000" />
+      <workItem from="1657268489925" duration="426000" />
+      <workItem from="1657268931035" duration="4730000" />
+      <workItem from="1657354948376" duration="746000" />
+      <workItem from="1657591010314" duration="3936000" />
+      <workItem from="1657599801364" duration="696000" />
+      <workItem from="1657600510993" duration="1842000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1657090398024</created>
@@ -54,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657090398024</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1657103561673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657103561673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
